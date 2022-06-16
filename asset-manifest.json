@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/abz-task-frontend/static/css/main.8e05725d.css",
+    "main.js": "/abz-task-frontend/static/js/main.0d45ab54.js",
+    "static/media/Rectangle.jpg": "/abz-task-frontend/static/media/Rectangle.083ff6af1b60924bb6e9.jpg",
+    "index.html": "/abz-task-frontend/index.html",
+    "main.8e05725d.css.map": "/abz-task-frontend/static/css/main.8e05725d.css.map",
+    "main.0d45ab54.js.map": "/abz-task-frontend/static/js/main.0d45ab54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e05725d.css",
+    "static/js/main.0d45ab54.js"
+  ]
+}
