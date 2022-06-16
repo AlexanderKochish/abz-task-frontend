@@ -1,0 +1,16 @@
+.ui__btn{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    background-color: #F4E041;
+    padding: 4px 29px;
+    border:none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+@media screen and (max-width: 496px){
+    .ui__btn{
+        line-height: 20px;
+        padding: 4px 19px;
+    }  
+}

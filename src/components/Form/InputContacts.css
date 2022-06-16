@@ -1,0 +1,28 @@
+.form__input{
+    width: 380px;
+    height: 54px;
+    font-weight: 400;
+    border: 1px solid #8b8b8b;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 26px;
+    color: #666666;
+    background-color: rgb(255, 255, 255);
+    padding: 14px 16px 14px 16px;
+    margin-bottom: 50px;
+}
+.input__tel__text{
+    margin-top: -40px;
+    padding: 0px 190px 0px 0px;
+}
+@media screen and (max-width: 496px){
+    .form__input{
+        width: 270px;
+        height: 44px;
+        margin-bottom: 30px;
+    }
+    .input__tel__text{
+        margin-top: -20px;
+        padding: 0px 90px 0px 0px;
+    }
+}

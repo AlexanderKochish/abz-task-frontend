@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__logo{
+    width: 104px;
+    height: 26px;
+    margin: 17px 0;
+}
+@media screen and (max-width: 496px){
+    .nav__logo{
+        width: 84px;
+        height: 22px;
+    }
+}

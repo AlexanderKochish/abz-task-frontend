@@ -1,0 +1,29 @@
+.users__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1170px;
+}
+.users__card__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h2{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    margin: 140px 0 50px 0;
+}
+.hidden{
+    display: none;
+}
+@media screen and (max-width: 496px){
+    h2{
+        font-size: 30px;
+        margin: 50px 0 30px 0;
+    }
+}
